@@ -1,0 +1,30 @@
+span{
+    display: block;
+    margin-top: 10px;
+}
+
+label{
+    font: inherit;
+}
+input{
+    float: right;
+}
+select{
+    float: right;
+}
+.button {
+    -moz-appearance: button;
+    text-decoration: none;
+    display: block;
+    width: 115px;
+    height: 20px;
+    background: black;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+#form{
+    max-width: 400px;
+}
